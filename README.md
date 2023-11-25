@@ -2,6 +2,7 @@
 
 This Standalone Spring boot project demonstrates the crud operations on Tour services using GraphQL as API.
 
+# Compile with Java 8
 
 [![Build Status](https://travis-ci.org/ravisankarchinnam/spring-boot-graphQL.svg?branch=master)](https://travis-ci.org/ravisankarchinnam/spring-boot-graphQL)
 
